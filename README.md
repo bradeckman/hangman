@@ -1,6 +1,6 @@
 # hangman
 
-A simple hangman game. Exercise 4 in Intro2CSE (2020) @ The Hebrew University of Jerusalem.
+A simple hangman game. Exercise 4 of Intro2CSE (2020) @ The Hebrew University of Jerusalem.
 
 
 ### Usage:
